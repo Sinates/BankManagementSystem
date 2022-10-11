@@ -1,0 +1,14 @@
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.exe.config
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.exe
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.pdb
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.AssemblyReference.cache
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.Manager.resources
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.Properties.Resources.resources
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.SignIn.resources
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.GenerateResource.cache
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.exe
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.pdb
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.Employee.resources
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.Transaction.resources
+C:\Users\user\Documents\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.Customer.resources
